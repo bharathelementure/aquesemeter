@@ -1,1 +1,3 @@
 class scaneddevice {}
+
+class changed {}
